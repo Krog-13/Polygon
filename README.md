@@ -1,0 +1,4 @@
+### Simple app
+
+FastAPI + VUE
+
